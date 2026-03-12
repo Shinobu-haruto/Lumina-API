@@ -1,0 +1,9 @@
+{
+  "id": "lumina.start_menu",
+  "name": "Start Menu",
+  "version": "1.0",
+  "author": "Shinobu Haruto",
+  "entry": "module.py",
+  "description": "Menú de inicio del sistema Lumina",
+  "api": "1.0"
+}
